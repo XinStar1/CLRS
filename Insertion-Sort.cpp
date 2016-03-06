@@ -3,6 +3,7 @@
 //  Copyright © 2016年 azx. All rights reserved.
 //
 //  输入要排序的数字，终止符结束，用插入排序得出非降序列
+//  Worst-case: Θ(n²)
 
 #include <cstdio>
 
